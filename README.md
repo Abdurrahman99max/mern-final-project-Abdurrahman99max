@@ -905,19 +905,19 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 
 ## Roadmap
 
-### Phase 2 (Q2 2024)
+### Phase 2 (Q2 2025)
 - [ ] Multi-user roles (Manager, Cashier, Admin)
 - [ ] Barcode scanning
 - [ ] Supplier management
 - [ ] Purchase orders
 
-### Phase 3 (Q3 2024)
+### Phase 3 (Q3 2025)
 - [ ] Mobile app (React Native)
 - [ ] Advanced reporting & exports
 - [ ] Accounting integration
 - [ ] SMS/Email notifications
 
-### Phase 4 (Q4 2024)
+### Phase 4 (Q4 2025)
 - [ ] AI-powered demand forecasting
 - [ ] Automated reordering
 - [ ] Multi-currency support
